@@ -1,0 +1,100 @@
+{
+    "model": "PostFeedLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Blog Page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Blog",
+                "postFeed": {
+                    "$$type": "PagedPostsSection",
+                    "title": null,
+                    "subtitle": null,
+                    "showThumbnail": true,
+                    "showExcerpt": true,
+                    "showDate": true,
+                    "showAuthor": true,
+                    "actions": [],
+                    "badge": null,
+                    "elementId": null,
+                    "variant": "three-col-grid",
+                    "colors": "bg-light-fg-dark",
+                    "hoverEffect": "move-up",
+                    "backgroundImage": null,
+                    "styles": null
+                },
+                "numOfPostsPerPage": 12,
+                "enableSearch": true,
+                "topSections": [
+                    {
+                        "$$type": "FeaturedPostsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Featured Post",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "This is the subtitle",
+                        "posts": [
+                            {
+                                "$$ref": "content/pages/blog/top-ten-lessons-we-learned.md",
+                                "$$type": "PostLayout"
+                            }
+                        ],
+                        "showThumbnail": true,
+                        "showExcerpt": true,
+                        "showDate": true,
+                        "showAuthor": true,
+                        "actions": [],
+                        "badge": null,
+                        "elementId": null,
+                        "variant": "big-list",
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "hoverEffect": "move-up",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-28",
+                                    "pb-0",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    }
+                ],
+                "bottomSections": [],
+                "slug": "/blog",
+                "isDraft": null,
+                "styles": {
+                    "title": {
+                        "textAlign": "center"
+                    }
+                },
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Blog - Demo site",
+                    "metaDescription": "This is the blog of the demo site where we post about technology, product, and design.",
+                    "addTitleSuffix": null,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/img-placeholder.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                },
+                "markdown_content": ""
+            },
+            "thumbnail": "images/post-feed-layout-blog-page-b2df.png"
+        }
+    ]
+}

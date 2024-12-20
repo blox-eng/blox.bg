@@ -11,17 +11,12 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: Daydreamer
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: |
+          Explore our free Base and start to envision.
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
@@ -43,17 +38,13 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Day & Night Dreamer
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: >
+          You're a professional dreamer, and dream often. All you need is Blox
+          to help you and your customers succeed.
+        features: []
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
@@ -75,18 +66,13 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: Dream Architect
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+        description: >
+          You dream not only for yourself, but for other day & night dreamers.
+          Let's have a chat and come up with the plan that will fit your needs.
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3

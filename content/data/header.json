@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -28,20 +30,11 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Services",
+            "altText": "Products",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Base",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +42,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Blueprint",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,12 +50,13 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Build",
+                    "url": "/calculate",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "calculator"
                 }
             ],
             "labelStyle": "secondary",
@@ -71,16 +65,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
+            "label": "BUILD NOW",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
