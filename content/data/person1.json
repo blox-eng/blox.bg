@@ -1,6 +1,6 @@
 {
     "name": "Martin Yankov",
-    "role": "",
+    "role": "Block Sorter",
     "image": {
         "url": "/images/avatar1.svg",
         "altText": "Rhonda Piper",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": ""
+    "bio": "Sorting bricks since the beginning, setting up the base.\n"
 }
