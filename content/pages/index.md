@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Empowering dreams, simplifying construction'
+      text: 'Empower your dreams, bring them to life'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Imagine, Blueprint, Build'
+    subtitle: 'Dream, Blueprint, Build'
     text: >
       We empower everyone to dream big and build with ease. A more sustainable
       and beautiful world to live in, for everyone.
@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: CHANGE THE WORLD
+      text: One dream at a time
       color: text-dark
       styles:
         self:
@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Complex is now simple
+      label: change the world
       color: text-primary
       styles:
         self:
@@ -165,7 +165,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: The universe in your own palms
+      text: The universe in your palms
       color: text-dark
       styles:
         self:
@@ -230,7 +230,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Small to Big is Equal
+    subtitle: Basic building Blox
     items:
       - title: Dream
         tagline: ''

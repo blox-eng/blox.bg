@@ -9,13 +9,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: Shaping the future of construction
+    text: |
+      Empower Dreams, Build Futures with Us. At Blox, we 
+      inspire individuals to envision their boldest aspirations and provide 
+      the tools and support to turn those dreams into reality.
     actions:
       - label: See open positions
         url: /
@@ -80,10 +78,8 @@ sections:
     items:
       - title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Be able to help our customers' build their dreams.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -97,12 +93,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Blox Master
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Show us your block building skills.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -116,12 +110,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Blox Architect
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Utilize your skills to architect the new future.
         colors: bg-neutral-fg-dark
         styles:
           self:

@@ -9,14 +9,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Shape your dreams at your own pace
     plans:
       - title: Daydreamer
         price: Free
         details: No credit card required
-        description: |
-          Explore our free Base and start to envision.
-        features: []
+        description: >
+          Explore our free Base and scratch the surface of your imaginations'
+          power.
+        features:
+          - Stay tuned for the list of features
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
@@ -42,9 +44,10 @@ sections:
         price: $99
         details: per month
         description: >
-          You're a professional dreamer, and dream often. All you need is Blox
-          to help you and your customers succeed.
-        features: []
+          You dream often and big, day and night. We know you, we are like you.
+          And we have the right tools for you to succeed.
+        features:
+          - Stay tuned for the list of features
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
@@ -71,7 +74,7 @@ sections:
         details: per month
         description: >
           You dream not only for yourself, but for other day & night dreamers.
-          Let's have a chat and come up with the plan that will fit your needs.
+          Become part of the change.
         features: []
         image:
           url: /images/abstract-feature3.svg
