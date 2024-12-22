@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/blox-logo-dark.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -62,19 +62,13 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/blox-eng",
             "icon": "github",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/blox-eng",
             "icon": "linkedin",
             "type": "Social"
         },
