@@ -31,9 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog - Blox
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
+    This is our Blog  where we post about technology, product,
     and design.
   socialImage: /images/img-placeholder.svg
   type: Seo

@@ -1,11 +1,5 @@
 # BLOX Engineering Website 
 
-## Deploying to Netlify
-
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/content-ops-starter)
-
 ## Develop with Netlify Visual Editor Locally
 
 The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
@@ -13,7 +7,7 @@ The typical development process is to begin by working locally. Clone this repos
 Run the Next.js development server:
 
 ```txt
-cd content-ops-starter
+cd blox.bg
 npm run dev
 ```
 
@@ -35,14 +29,7 @@ To build a static site for production, run the following command
 ```shell
 npm run build
 ```
-
-## Next Steps
-
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
-
-- Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+<!---->
+<!-- ## Support -->
+<!---->
+<!-- If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/). -->

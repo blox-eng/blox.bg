@@ -165,16 +165,16 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: The universe in your palms
+      text: The universe on the tip of your fingers
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: The worlds knowledge on construction
+    subtitle: 'Knowledge, connected'
     text: >
-      Blox BASE collects and organizes all knowledge that the Earth has to offer
-      on construction, from materials you can use and their characteristics, to
+      BASE collects and organizes all knowledge that the Earth has to offer on
+      construction, from materials you can use and their characteristics, to
       connections and relationships between different types of construction
       work. We correlate this information on many levels, including price,
       weather, time and more.
@@ -199,7 +199,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Blox Base
+      label: Base
       color: text-primary
       styles:
         self:
@@ -224,13 +224,13 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: How it works
+      text: The Blox
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Basic building Blox
+    subtitle: Building blocks for success
     items:
       - title: Dream
         tagline: ''
@@ -375,8 +375,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Blox
+  metaDescription: 'Empowering dreams, simple builds'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
