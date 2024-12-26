@@ -35,7 +35,7 @@
             "links": [
                 {
                     "label": "Base",
-                    "url": "/",
+                    "url": "/base",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -43,7 +43,7 @@
                 },
                 {
                     "label": "Blueprint",
-                    "url": "/",
+                    "url": "/blueprint",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -51,7 +51,7 @@
                 },
                 {
                     "label": "Build",
-                    "url": "/calculate",
+                    "url": "/build",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
