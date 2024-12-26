@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Empower your dreams, bring them to life'
+      text: 'Dream big, build simple'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Dream, Blueprint, Build'
+    subtitle: 'Imagine, Blueprint, Build'
     text: >
       We empower everyone to dream big and build with ease. A more sustainable
       and beautiful world to live in, for everyone.
@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Explore our base
+      - label: Explore
         altText: ''
         url: /
         showIcon: true
@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: change the world
+      label: bringing your dreams to life
       color: text-primary
       styles:
         self:
@@ -165,19 +165,18 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: The universe on the tip of your fingers
+      text: Knowledge at the tip of your fingers
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Knowledge, connected'
+    subtitle: Complex is now simple
     text: >
-      BASE collects and organizes all knowledge that the Earth has to offer on
-      construction, from materials you can use and their characteristics, to
-      connections and relationships between different types of construction
-      work. We correlate this information on many levels, including price,
-      weather, time and more.
+      Blox Base ollects and organizes all knowledge that the Earth has to offer
+      on building, from materials you can use and their characteristics, to the
+      relationships between them and the on-site work. We correlate this
+      information on many levels, including price, weather, time and more.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -199,7 +198,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Base
+      label: explore the universe
       color: text-primary
       styles:
         self:
@@ -232,11 +231,12 @@ sections:
       type: TitleBlock
     subtitle: Building blocks for success
     items:
-      - title: Dream
+      - title: Imagine
         tagline: ''
         subtitle: ''
-        text: |
-          You dream, Base helps you craft and refine your dream.
+        text: >
+          Your life, your imagination. We are here to support you to put your
+          dream into perspective.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -259,7 +259,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Using Blueprint, we transform your dream into a plan to success.
+          Your dream is now a plan on paper, ready to be built.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -281,9 +281,8 @@ sections:
       - title: Build
         tagline: ''
         subtitle: ''
-        text: >
-          Using Build, you can see your project come to life. Track your journey
-          to completion!
+        text: |
+          Track your project to completion, bring your dream to life.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -316,14 +315,13 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Are you ready to see your dream come true?
+      text: Ready to see your dream in person?
       color: text-dark
       type: TitleBlock
     subtitle: We know we are
     text: >
-      Yesterday was the best day to start your dream, but today is the second
-      best. Don't wait any longer and send us how you see your dream. Our team
-      will help guide you into success!
+      Yesterday was the best day to start. Today is the second best. No more
+      procrastinating. Build your dream now! Our team will help you get started!
     media:
       fields:
         - name: name
@@ -375,8 +373,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Blox
-  metaDescription: 'Empowering dreams, simple builds'
+  metaTitle: BLOX
+  metaDescription: 'Complex dreams, simple builds'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
