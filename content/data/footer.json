@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/blox-logo-dark.svg",
+        "url": "/images/blox-logo-white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Empower dreams, build the future\n",
+    "text": "Complex dreams, simple builds\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
