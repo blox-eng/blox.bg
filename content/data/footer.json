@@ -24,14 +24,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
@@ -71,18 +63,12 @@
             "url": "https://www.linkedin.com/company/blox-eng",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -90,7 +76,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

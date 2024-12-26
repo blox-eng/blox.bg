@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Dream big, build simple'
+      text: 'Complex dreams, simple builds'
       color: text-dark
       type: TitleBlock
     subtitle: 'Imagine, Blueprint, Build'
@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: BLOCK BY BLOCK
+      label: Building blox
       color: text-primary
       type: Badge
     elementId: ''
@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: One dream at a time
+      text: One at a time
       color: text-dark
       styles:
         self:
@@ -165,18 +165,26 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Knowledge at the tip of your fingers
+      text: At the tip of your fingers
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: Complex is now simple
-    text: >
-      Blox Base ollects and organizes all knowledge that the Earth has to offer
-      on building, from materials you can use and their characteristics, to the
-      relationships between them and the on-site work. We correlate this
-      information on many levels, including price, weather, time and more.
+    text: |
+      Imagine a vast digital library that houses the world's collective 
+      wisdom on construction, from ancient techniques to cutting-edge 
+      innovations. Our platform serves as this comprehensive repository, 
+      meticulously gathering and organizing knowledge on every aspect of 
+      building – from the diverse materials and their unique properties to the
+       intricate relationships between components and the nuances of on-site 
+      work. We don't just collect information; we create a rich tapestry of 
+      insights by correlating data across multiple dimensions, including cost,
+       climate, and time constraints. This multifaceted approach empowers 
+      builders, architects, and enthusiasts alike to make informed decisions, 
+      fostering innovation and excellence in the ever-evolving field of 
+      construction.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -223,20 +231,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: The Blox
+      text: Blox for you
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Building blocks for success
+    subtitle: 'Your dream, your build, your time'
     items:
       - title: Imagine
         tagline: ''
         subtitle: ''
         text: >
-          Your life, your imagination. We are here to support you to put your
-          dream into perspective.
+          Your life, your imagination. We leave the dreaming to you, but help
+          you stay on the ground.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -258,8 +266,9 @@ sections:
       - title: Blueprint
         tagline: ''
         subtitle: ''
-        text: |
-          Your dream is now a plan on paper, ready to be built.
+        text: >
+          We help you put your dream into a tangible plan. Connecting the dream
+          world to the real word.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -281,8 +290,9 @@ sections:
       - title: Build
         tagline: ''
         subtitle: ''
-        text: |
-          Track your project to completion, bring your dream to life.
+        text: >
+          Track your project to completion, bring your dream to life. You're in
+          control.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -315,10 +325,10 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Ready to see your dream in person?
+      text: Ready to meet your dream in person?
       color: text-dark
       type: TitleBlock
-    subtitle: We know we are
+    subtitle: We sure are
     text: >
       Yesterday was the best day to start. Today is the second best. No more
       procrastinating. Build your dream now! Our team will help you get started!
