@@ -5,23 +5,24 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Base
+      text: Imagine
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Sturdy and strong
+    subtitle: Unlock your mind's full potential
     items:
       - type: FeaturedItem
-        title: Materials
-        tagline: Earth
+        title: Your
+        tagline: Personal
         subtitle: ''
-        text: >
-          We know picking the right place for your dream is not easy. So we make
-          it easy.
+        text: >+
+          Inspire from other builds and see if your dream hasn't been already
+          been built.
+
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
@@ -38,8 +39,8 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Equipment
-        tagline: Required
+        title: Comfort
+        tagline: Style
         subtitle: ''
         text: >+
           We know what you need to build what you need. We collect all
@@ -64,8 +65,8 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Works
-        tagline: Best
+        title: Space
+        tagline: Layout
         subtitle: ''
         text: >+
           See how much you dream costs. Some dreams are just not worth it. Other
@@ -75,80 +76,6 @@ sections:
           type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Recipes
-        tagline: Ingredients
-        subtitle: ''
-        text: |
-          We have all the recipes you will ever need.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Price
-        tagline: Budget
-        subtitle: ''
-        text: >
-          We collect all the pricing information for you. Get the best value for
-          your buck.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: How
-        tagline: Knowledge
-        subtitle: ''
-        text: >
-          We'll give you full visibility into the hows and whats. Nothing is too
-          complex.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -176,7 +103,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: base
+slug: /imagine
 isDraft: false
 seo:
   type: Seo

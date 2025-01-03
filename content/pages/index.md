@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Complex dreams, simple builds'
+      text: 'Big dreams, small builds'
       color: text-dark
       type: TitleBlock
     subtitle: 'Imagine, Blueprint, Build'
@@ -263,6 +263,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /imagine
+            showIcon: false
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - title: Blueprint
         tagline: ''
         subtitle: ''
@@ -287,6 +297,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /blueprint
+            showIcon: false
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - title: Build
         tagline: ''
         subtitle: ''
@@ -311,6 +331,50 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /build
+            showIcon: false
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
+      - type: FeaturedItem
+        title: Explore
+        tagline: ''
+        subtitle: ''
+        text: >
+          We know picking the right place for your dream is not easy. So we make
+          it easy.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /explore
+            showIcon: false
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -383,8 +447,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: BLOX
-  metaDescription: 'Complex dreams, simple builds'
+  metaTitle: 'Your dream, our blox'
+  metaDescription: 'Big dreams, simple builds'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

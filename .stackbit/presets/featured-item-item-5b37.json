@@ -1,0 +1,53 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Item",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Item"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Materials",
+                "tagline": "Earth",
+                "subtitle": "",
+                "text": "We know picking the right place for your dream is not easy. So we make it easy.\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature2.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-item-5b37.png"
+        }
+    ]
+}
