@@ -42,6 +42,28 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "label": "Explore",
+                    "altText": "Explore",
+                    "url": "/explore",
+                    "showIcon": false,
+                    "icon": "send",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Imagine",
+                    "altText": "Imagine",
+                    "url": "/imagine",
+                    "showIcon": true,
+                    "icon": "",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Blueprint",
                     "url": "/blueprint",
                     "icon": "arrowRight",

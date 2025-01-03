@@ -13,11 +13,11 @@ sections:
     subtitle: Projection of success
     items:
       - type: FeaturedItem
-        title: The right materials
-        tagline: Innovation
+        title: Design
+        tagline: Ready
         subtitle: ''
         text: |
-          You set the bar, we meet the bar.
+          Your dream, on paper.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
@@ -37,11 +37,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: The right equipment
-        tagline: Action
+        title: Documents
+        tagline: Everything you need
         subtitle: ''
-        text: |
-          The right tools for the job, every, single, time.
+        text: |+
+          All the documents you need to process.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
@@ -61,35 +62,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: The right worker
-        tagline: Work
-        subtitle: ''
-        text: |
-          We know the right man for the job.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: The right vendor
+        title: Pocket
         tagline: Cost
         subtitle: ''
         text: |
-          You know your goal, we know the right folks.
+          Pick the vendor that fits your pocket.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

@@ -5,22 +5,22 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Build
+      text: Explore
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: See your dream come to life
+    subtitle: The world is your canvas
     items:
       - type: FeaturedItem
-        title: Steps
-        tagline: Execution
+        title: Weather
+        tagline: Hot or Cold
         subtitle: ''
         text: |
-          We show you the steps, you do them at your own pace.
+          Some people like the snow, others like the sand.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
@@ -37,11 +37,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Adapt
-        tagline: Live
+        title: View
+        tagline: Sea or Mountain
         subtitle: ''
         text: |
-          Your project adapts to you, and to reality.
+          Forest walks or beach runs, we've got you covered.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -61,11 +61,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Complete
-        tagline: Finish
+        title: Location
+        tagline: Town to Desert
         subtitle: ''
         text: |
-          We guarantee your success.
+          Remote or inbound, everyone has their own taste.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -97,7 +97,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: build
+slug: /explore
 isDraft: false
 seo:
   type: Seo
