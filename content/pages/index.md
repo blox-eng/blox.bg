@@ -4,13 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Big dreams, small builds'
+      text: 'Dream big, build simple'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Imagine, Blueprint, Build'
+    subtitle: Unleash your imagination
     text: >
-      We empower everyone to dream big and build with ease. A more sustainable
-      and beautiful world to live in, for everyone.
+      We believe that everyone should dream as big as they can. There are no
+      limits to imagination.
     actions:
       - label: Get started
         altText: ''
@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: One at a time
+      text: One dream at a time
       color: text-dark
       styles:
         self:
@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: bringing your dreams to life
+      label: unleash your imagination
       color: text-primary
       styles:
         self:
@@ -171,20 +171,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Complex is now simple
-    text: |
-      Imagine a vast digital library that houses the world's collective 
-      wisdom on construction, from ancient techniques to cutting-edge 
-      innovations. Our platform serves as this comprehensive repository, 
-      meticulously gathering and organizing knowledge on every aspect of 
-      building – from the diverse materials and their unique properties to the
-       intricate relationships between components and the nuances of on-site 
-      work. We don't just collect information; we create a rich tapestry of 
-      insights by correlating data across multiple dimensions, including cost,
-       climate, and time constraints. This multifaceted approach empowers 
-      builders, architects, and enthusiasts alike to make informed decisions, 
-      fostering innovation and excellence in the ever-evolving field of 
-      construction.
+    subtitle: ''
+    text: >
+      A digital hub of global construction wisdom. We simplify building
+      complexities, weaving together knowledge on materials, techniques, and
+      environmental factors. By transforming raw data into actionable insights,
+      we empower visionaries to bring their architectural dreams to life
+      efficiently and innovatively.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -231,14 +224,48 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Blox for you
+      text: Your Dreams
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Your dream, your build, your time'
+    subtitle: We support your dreams from conception to completion
     items:
+      - type: FeaturedItem
+        title: Explore
+        tagline: ''
+        subtitle: ''
+        text: >
+          We know picking the right place for your dream is not easy. So we make
+          it easy.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /explore
+            showIcon: false
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
       - title: Imagine
         tagline: ''
         subtitle: ''
@@ -341,40 +368,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - type: FeaturedItem
-        title: Explore
-        tagline: ''
-        subtitle: ''
-        text: >
-          We know picking the right place for your dream is not easy. So we make
-          it easy.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: Learn more
-            altText: Learn more
-            url: /explore
-            showIcon: false
-            icon: play
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -447,9 +440,13 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: 'Your dream, our blox'
-  metaDescription: 'Big dreams, simple builds'
+  metaTitle: 'Dream big, build simple'
+  metaDescription: >-
+    Blox empowers your dreams and turns them into reality. We build simple yet
+    powerful tools that allow you to unleash your imagination and help you build
+    your dream home.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
