@@ -232,40 +232,6 @@ sections:
       type: TitleBlock
     subtitle: We support your dreams from conception to completion
     items:
-      - type: FeaturedItem
-        title: Explore
-        tagline: ''
-        subtitle: ''
-        text: >
-          We know picking the right place for your dream is not easy. So we make
-          it easy.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: Learn more
-            altText: Learn more
-            url: /explore
-            showIcon: false
-            icon: play
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
       - title: Imagine
         tagline: ''
         subtitle: ''
@@ -300,12 +266,12 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Blueprint
+      - title: Build
         tagline: ''
         subtitle: ''
         text: >
-          We help you put your dream into a tangible plan. Connecting the dream
-          world to the real word.
+          We help you put your dream into a tangible plan. Connect the dream
+          world to the real word and see it come to life.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -334,12 +300,12 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - title: Build
+      - title: Base
         tagline: ''
         subtitle: ''
         text: >
-          Track your project to completion, bring your dream to life. You're in
-          control.
+          We built the base sturdy and strong, so it can hold up and make all
+          dreams possible.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

@@ -25,7 +25,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: /signup
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -54,7 +54,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: /signup
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -82,7 +82,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -105,9 +105,12 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Blox
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Pricing
+  metaDescription: >-
+    Dreaming is free, but so is our Daydreamer plan. Explore our plans and the
+    find the right fit for you.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
