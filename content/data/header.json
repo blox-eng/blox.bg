@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -43,17 +35,6 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Explore",
-                    "altText": "Explore",
-                    "url": "/explore",
-                    "showIcon": false,
-                    "icon": "send",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Imagine",
                     "altText": "Imagine",
                     "url": "/imagine",
@@ -62,14 +43,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "label": "Blueprint",
-                    "url": "/blueprint",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 },
                 {
                     "label": "Build",

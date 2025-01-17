@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: false
 topSections:
   - title:
-      text: Explore our blog
+      text: We talk about our journey
       color: text-dark
       type: TitleBlock
-    subtitle: Technology and beyond
+    subtitle: 'Technology, innovation, construction'
     posts:
       - content/pages/blog/the-future-of-your-dreams.md
     showThumbnail: true

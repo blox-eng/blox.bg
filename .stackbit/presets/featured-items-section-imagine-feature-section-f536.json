@@ -1,0 +1,161 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Imagine Feature Section",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Imagine",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "Unleash the power of your mind",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Engaging",
+                        "tagline": "Active",
+                        "subtitle": "",
+                        "text": "All dreams start from a simple spark. With Imagine you are going to actively engage in shaping your dream into full clarity.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/abstract-feature3.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Placeholder image",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Adaptive",
+                        "tagline": "Individual",
+                        "subtitle": "",
+                        "text": "Your individual desires and always reflected in your dreams. Imagine adapts to your imagination and needs, on the fly.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Placeholder image",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Endless",
+                        "tagline": "Knowledge",
+                        "subtitle": "",
+                        "text": "We know what it takes to make your dream a reality and it is now in the palm of your hands.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Placeholder text",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": null,
+                "elementId": null,
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-16",
+                            "pl-8",
+                            "pb-16",
+                            "pr-8"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-imagine-feature-section-f536.png"
+        }
+    ]
+}
