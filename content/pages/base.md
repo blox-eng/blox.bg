@@ -63,7 +63,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Strurdy and strong
+      label: Sturdy and strong
       color: text-primary
     colors: bg-light-fg-dark
     styles:
