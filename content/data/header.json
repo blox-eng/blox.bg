@@ -60,7 +60,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "SIGN UP",
+            "label": "Sign up",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",

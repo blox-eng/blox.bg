@@ -1,0 +1,61 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Comming Soon",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "items": [],
+                "actions": [],
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Comming soon",
+                    "color": "text-light",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": "",
+                "variant": "two-col-grid",
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-16",
+                            "pt-16",
+                            "pl-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-comming-soon-723e.png"
+        }
+    ]
+}

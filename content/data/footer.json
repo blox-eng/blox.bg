@@ -18,14 +18,6 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Base",
                 "altText": "",
@@ -52,40 +44,6 @@
                 "label": "Build",
                 "altText": "Build",
                 "url": "/build",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Contact us",
-                "altText": "",
-                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -127,7 +85,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "BLOX Engineering EOOD @ 2025\n",
+    "copyrightText": "BLOX @ 2025\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

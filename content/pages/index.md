@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: One dream at a time
+      text: One block at a time
       color: text-dark
       styles:
         self:
@@ -60,12 +60,32 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
+      - title: 100%
+        subtitle: Faster
+        text: |
+          Shorten the time to see your dream come to life.
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - type: FeaturedItem
         title: 500k+
         subtitle: Hours saved
-        text: >
-          By eliminating rework, we save time and energy for the important
-          things in life
+        text: |
+          Stop figuring out everything from scratch. We'll do that for you.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,10 +110,10 @@ sections:
               borderRadius: x-large
         tagline: ''
       - title: 20x
-        subtitle: More efficient
+        subtitle: Better quality
         text: >
-          Giving the right tools for each job, the right work for the best
-          workers.
+          Get the right materials and workers for the job, at the right time,
+          forget about mediocrity.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -112,27 +132,6 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: 100%
-        subtitle: Faster
-        text: |
-          Shorten the time to achieve a better future
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
         type: FeaturedItem
     actions:
       - label: Get started
@@ -199,7 +198,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: explore the universe
+      label: base knowledge
       color: text-primary
       styles:
         self:
@@ -230,7 +229,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We support your dreams from conception to completion
+    subtitle: Concept to Reality
     items:
       - title: Imagine
         tagline: ''
@@ -347,6 +346,10 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
   - title:
       text: Ready to meet your dream in person?
       color: text-dark

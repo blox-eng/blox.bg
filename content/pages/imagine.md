@@ -2,6 +2,37 @@
 type: PageLayout
 title: Base
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items: []
+    actions: []
+    badge:
+      type: Badge
+      label: Coming soon
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
