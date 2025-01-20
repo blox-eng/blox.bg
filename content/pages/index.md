@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Unleash your imagination
     text: >
-      We believe that everyone should dream as big as they can. There are no
-      limits to imagination.
+      We believe that every dream is possible. Bring yours to life using our
+      simple yet powerful tools.
     actions:
       - label: Get started
         altText: ''
@@ -61,9 +61,9 @@ sections:
     subtitle: ''
     items:
       - title: 100%
-        subtitle: Faster
+        subtitle: Clarity
         text: |
-          Shorten the time to see your dream come to life.
+          Clear your mind, envision your dream and shape it up in real time.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -82,10 +82,11 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: 500k+
+        title: 100+
         subtitle: Hours saved
-        text: |
-          Stop figuring out everything from scratch. We'll do that for you.
+        text: >
+          Stop trying to figure out the details on your own. We've got you
+          covered with our big knowledge Base.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -110,10 +111,10 @@ sections:
               borderRadius: x-large
         tagline: ''
       - title: 20x
-        subtitle: Better quality
+        subtitle: More efficient
         text: >
-          Get the right materials and workers for the job, at the right time,
-          forget about mediocrity.
+          Supercharged efficiency with our expert-curated tools that enable you
+          to get the best fit for your dream.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -172,11 +173,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A digital hub of global construction wisdom. We simplify building
-      complexities, weaving together knowledge on materials, techniques, and
-      environmental factors. By transforming raw data into actionable insights,
-      we empower visionaries to bring their architectural dreams to life
-      efficiently and innovatively.
+      Turn dreams into reality. Our simple, powerful tools help you envision,
+      plan, and build your future dream home. From idea to completion, we’re
+      with you every step of the way.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -231,12 +230,46 @@ sections:
       type: TitleBlock
     subtitle: Concept to Reality
     items:
+      - title: Base
+        tagline: ''
+        subtitle: ''
+        text: >
+          We provide a solid foundation for your dreams. Our robust platform
+          supports all your aspirations, making them achievable.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /build
+            showIcon: false
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - title: Imagine
         tagline: ''
         subtitle: ''
         text: >
-          Your life, your imagination. We leave the dreaming to you, but help
-          you stay on the ground.
+          Unleash your creativity while staying grounded. We nurture your ideas
+          and help shape them into realistic visions.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -269,8 +302,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          We help you put your dream into a tangible plan. Connect the dream
-          world to the real word and see it come to life.
+          Transform your dream into a concrete plan. We guide you from concept
+          to reality, bringing your vision to life.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -294,40 +327,6 @@ sections:
             label: Learn more
             altText: Learn more
             url: /blueprint
-            showIcon: false
-            icon: play
-            iconPosition: right
-            style: secondary
-            elementId: ''
-      - title: Base
-        tagline: ''
-        subtitle: ''
-        text: >
-          We built the base sturdy and strong, so it can hold up and make all
-          dreams possible.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Link
-            label: Learn more
-            altText: Learn more
-            url: /build
             showIcon: false
             icon: play
             iconPosition: right
