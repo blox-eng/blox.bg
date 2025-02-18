@@ -22,8 +22,8 @@
             "type": "Link"
         },
         {
-            "label": "Products",
-            "altText": "Products",
+            "label": "Blocks",
+            "altText": "Blocks",
             "links": [
                 {
                     "label": "Base",
