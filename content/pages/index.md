@@ -9,8 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Unleash your imagination
     text: >
-      We believe that every dream is possible. Bring yours to life using our
-      simple yet powerful tools.
+      We believe that every dream is possible and everyone must be empowered to
+      make theirs come true. Bring yours to life using our simple yet powerful
+      tools.
     actions:
       - label: Get started
         altText: ''
@@ -36,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Building blox
+      label: Building blocks for success
       color: text-primary
       type: Badge
     elementId: ''
